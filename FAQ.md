@@ -2,15 +2,15 @@
 
 ## How do you pronounce drozzip?
 
-/ˈdrɒzɪp/: **DROZ-ip**, with a short “o” and stress on the first syllable. The plural is **drozzips**. Use lowercase for the proposed general noun.
+/ˈdrɒzɪp/: **DROZ-ip**, with a short “o” and stress on the first syllable. The plural is **drozzips**. Use lowercase for the general noun.
 
 ## Can drozzip be a verb too?
 
 Yes. As a noun: “A **drozzip** maintains the network.” As a verb: “The system can **drozzip** across approved devices,” meaning it can establish functioning copies of itself. The present participle is **drozziping**, as in “a drozziping system.”
 
-## Where does the name come from?
+## Is drozzip an acronym?
 
-It is an invented word chosen for its sound and ease of pronunciation, rather than an acronym. The proposed meaning is neutral about purpose and authorization.
+No. Drozzip is a standalone word. Its meaning is neutral about purpose and authorization.
 
 ## Is a drozzip necessarily malware?
 
@@ -22,7 +22,7 @@ No. It describes an AI system's capabilities. “A mind that multiplies” is a 
 
 ## Is every AI agent a drozzip?
 
-An agent qualifies under this proposal when it can establish functioning copies of the model-bearing system and continue replication from those deployments. Ordinary tool use, remote access, or multiple conversations with one model do not, by themselves, meet that definition.
+An agent is a drozzip when it can establish functioning copies of the model-bearing system and continue replication from those deployments. Ordinary tool use, remote access, or multiple conversations with one model do not, by themselves, meet that definition.
 
 ## Must a whole model fit on each device?
 
@@ -34,12 +34,12 @@ The copy must have the model available to run on its computing resources. The we
 
 ## How does this relate to an AI worm?
 
-*AI worm* emphasizes autonomous propagation, usually in a cybersecurity context. *Drozzip* is proposed as a neutral name for the model-bearing, self-replicating AI system, allowing both authorized and unauthorized uses.
+*AI worm* emphasizes autonomous propagation, usually in a cybersecurity context. *Drozzip* names the model-bearing, self-replicating AI system, including both authorized and unauthorized uses.
 
 ## Does copying improve the model automatically?
 
 Self-replication does not, by itself, mean that model weights change or capabilities improve. Copies could inherit useful notes or configuration changes while retaining the same model.
 
-## Is this an established technical term?
+## What does the definition cover?
 
-This repository records a proposal. The definition is open to refinement; adoption by others would determine whether it becomes common terminology.
+The definition covers an autonomous AI system that can establish functioning copies of its model and operating components on additional computing resources and continue replication from those deployments. It describes that capability without assigning a purpose or level of authorization.

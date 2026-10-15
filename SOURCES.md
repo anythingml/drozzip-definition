@@ -1,6 +1,6 @@
 # Sources and research context
 
-Research context checked on **15 October 2026**. The definition of *drozzip* in this repository is a proposal, separate from the terminology and conclusions of the sources below.
+Research context checked on **15 October 2026**. The definition of *drozzip* describes the model-bearing form of autonomous AI replication discussed in the research below. The sources retain their own terminology and conclusions.
 
 ## Autonomous replication and model-bearing systems
 
@@ -10,5 +10,5 @@ The article uses *autonomous replication and adaptation* for a wider research co
 
 The experiments examine inference setup on unfamiliar hardware and simplified replication tasks. They do not establish a small, fully autonomous rogue replicator operating in the wild. The authors' near-term forecast is a projection beyond the experiments.
 
-This proposal uses neutral language so that authorized maintenance and research applications can be discussed alongside unauthorized behavior.
+The definition is neutral about purpose and authorization, covering maintenance and research applications alongside unauthorized behavior.
 
