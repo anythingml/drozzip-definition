@@ -38,7 +38,11 @@ The copy must have the model available to run on its computing resources. The we
 
 ## Does copying improve the model automatically?
 
-Self-replication does not, by itself, mean that model weights change or capabilities improve. Copies could inherit useful notes or configuration changes while retaining the same model.
+Copying alone does not change model weights or automatically improve capabilities. Copies can inherit useful notes, configuration, and working state while retaining the same model.
+
+A drozzip can be configured to check a datacentre for newer, compatible model weights and update the model it runs. Training can happen centrally while the drozzip runs inference on its own computing resources. Such updates can improve or specialize its capabilities without local training.
+
+A drozzip can also establish smaller, task-focused variants that fit the available computing resources. A variant may be more limited overall while being suited to a particular task. It is itself a drozzip when it remains a functioning, model-bearing AI system capable of establishing further functioning copies.
 
 ## What does the definition cover?
 
