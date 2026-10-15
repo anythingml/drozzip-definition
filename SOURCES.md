@@ -12,8 +12,3 @@ The experiments examine inference setup on unfamiliar hardware and simplified re
 
 This proposal uses neutral language so that authorized maintenance and research applications can be discussed alongside unauthorized behavior.
 
-## Why the earlier working name changed
-
-[Dixa: Mim AI Agent](https://www.dixa.com/ai-agent).
-
-Dixa uses **Mim** as a product name for a customer-service AI agent. This existing AI use helped prompt the replacement of the earlier working name **mim** with **drozzip**. The new name is a proposal, without a claim of proven uniqueness or endorsement by Dixa or Anthropic.
