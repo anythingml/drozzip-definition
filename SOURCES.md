@@ -1,6 +1,6 @@
 # Sources and research context
 
-Research context checked on **15 October 2026**. The definition of *mim* in this repository is a proposal, separate from the terminology and conclusions of the sources below.
+Research context checked on **15 October 2026**. The definition of *drozzip* in this repository is a proposal, separate from the terminology and conclusions of the sources below.
 
 ## Autonomous replication and model-bearing systems
 
@@ -12,8 +12,8 @@ The experiments examine inference setup on unfamiliar hardware and simplified re
 
 This proposal uses neutral language so that authorized maintenance and research applications can be discussed alongside unauthorized behavior.
 
-## Existing use of the name
+## Why the earlier working name changed
 
 [Dixa: Mim AI Agent](https://www.dixa.com/ai-agent).
 
-Dixa uses **Mim** as a product name for a customer-service AI agent. That existing use is distinct from the proposed general noun **mim** defined in this repository. The proposal does not claim endorsement by Dixa or Anthropic.
+Dixa uses **Mim** as a product name for a customer-service AI agent. This existing AI use helped prompt the replacement of the earlier working name **mim** with **drozzip**. The new name is a proposal, without a claim of proven uniqueness or endorsement by Dixa or Anthropic.

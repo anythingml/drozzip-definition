@@ -1,18 +1,26 @@
 # Frequently asked questions
 
-## How do you pronounce mim?
+## How do you pronounce drozzip?
 
-/mɪm/, rhyming with *him*. The plural is **mims**. Use lowercase for the proposed general noun.
+/ˈdrɒzɪp/: **DROZ-ip**, with a short “o” and stress on the first syllable. The plural is **drozzips**. Use lowercase for the proposed general noun.
 
-## Is a mim necessarily malware?
+## Can drozzip be a verb too?
 
-The definition is neutral about purpose and authorization. A maintenance mim operating on approved devices and a rogue mim operating outside its permitted scope would differ in those attributes.
+Yes. As a noun: “A **drozzip** maintains the network.” As a verb: “The system can **drozzip** across approved devices,” meaning it can establish functioning copies of itself. The present participle is **drozziping**, as in “a drozziping system.”
+
+## Where does the name come from?
+
+It is an invented word chosen for its sound and ease of pronunciation, rather than an acronym. The proposed meaning is neutral about purpose and authorization.
+
+## Is a drozzip necessarily malware?
+
+The definition is neutral about purpose and authorization. A maintenance drozzip operating on approved devices and a rogue drozzip operating outside its permitted scope would differ in those attributes.
 
 ## Does the name imply consciousness or life?
 
 No. It describes an AI system's capabilities. “A mind that multiplies” is a memorable tagline, with *mind* used metaphorically.
 
-## Is every AI agent a mim?
+## Is every AI agent a drozzip?
 
 An agent qualifies under this proposal when it can establish functioning copies of the model-bearing system and continue replication from those deployments. Ordinary tool use, remote access, or multiple conversations with one model do not, by themselves, meet that definition.
 
@@ -26,7 +34,7 @@ The copy must have the model available to run on its computing resources. The we
 
 ## How does this relate to an AI worm?
 
-*AI worm* emphasizes autonomous propagation, usually in a cybersecurity context. *Mim* is proposed as a neutral name for the model-bearing, self-replicating AI system, allowing both authorized and unauthorized uses.
+*AI worm* emphasizes autonomous propagation, usually in a cybersecurity context. *Drozzip* is proposed as a neutral name for the model-bearing, self-replicating AI system, allowing both authorized and unauthorized uses.
 
 ## Does copying improve the model automatically?
 
