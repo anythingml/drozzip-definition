@@ -1,11 +1,11 @@
 # drozzip
 
-**A self-replicating AI. A mind that multiplies.**
+**A name for self-replicating AI. A mind that multiplies.**
 
 **drozzip** /ˈdrɒzɪp/ — **DROZ-ip**, with a short “o”  
 *noun; plural: drozzips; also a verb*
 
-> An autonomous AI system capable of establishing functioning copies of itself, including its model and operating components, on additional computing resources.
+> Any autonomous AI system capable of establishing functioning copies of itself, including its model and operating components, on additional computing resources.
 
 A maintenance **drozzip** copies itself across approved devices to repair faults.
 
@@ -21,7 +21,7 @@ In plain language, a drozzip can set up copies that run the AI and can continue 
 
 The word describes a capability. It leaves the system's purpose and authorization open: a drozzip can perform maintenance, support research, or operate outside its permitted scope.
 
-Drozzip is a standalone word, not an acronym. The tagline uses “mind” as a metaphor for AI capabilities.
+Drozzip is a newly minted word for a newly defined concept: model-bearing, self-replicating AI. It is neither an acronym nor a blend of existing words. The tagline uses “mind” as a metaphor for AI capabilities.
 
 ## Applications
 
@@ -45,11 +45,23 @@ A person manually copying model files has copied software. Multiple agents calli
 
 “Autonomous” allows human-defined goals, permissions, and limits. A system can be autonomous within an approved environment.
 
+## Inside a drozzip
+
+![Functional components of a drozzip: AI model weights, inference runtime, agent control, task context, and replication and startup logic.](drozzip-anatomy.svg)
+
+- **AI model weights:** the learned parameters used for inference.
+- **Inference runtime:** the software that runs the model on available computing resources.
+- **Agent control:** the logic that selects actions and uses tools.
+- **Task context:** the goals, instructions, permissions, and working state.
+- **Replication and startup logic:** the components that establish and start a functioning copy.
+
+This is a functional breakdown. Implementations may combine parts or distribute them across several machines.
+
 ## Meaning and usage
 
 **Definition — 15 October 2026.**
 
-As a noun, **drozzip** names a self-replicating AI system. As a verb, **drozzip** means to establish functioning copies of that system on additional computing resources. The present participle is **drozziping**.
+As a noun, **drozzip** refers to any AI system that meets this definition. As a verb, **drozzip** means to establish functioning copies of that system on additional computing resources. The present participle is **drozziping**.
 
 The definition concerns the model-bearing form of AI replication. Related research uses the term *weight-based replicator*. Broader research on autonomous replication also includes systems that depend on external inference APIs. See [sources and research context](SOURCES.md).
 

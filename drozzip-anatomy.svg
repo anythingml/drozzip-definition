@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="850" viewBox="0 0 1000 850" role="img" aria-labelledby="title desc">
+  <title id="title">Inside a drozzip: a working AI system and its functioning copy</title>
+  <desc id="desc">Two matching stacks show five functional layers: AI model weights, inference runtime, agent control, task context, and replication and startup logic. An arrow connects the existing system to a functioning copy on additional computing resources. A separate panel identifies the task purpose as maintenance, research, or teaching. This is a conceptual architecture, not a prescribed file layout.</desc>
+  <defs>
+    <marker id="copy-arrow" markerWidth="12" markerHeight="12" refX="9" refY="6" orient="auto"><path d="M2 1 10 6 2 11" fill="none" stroke="#294735" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></marker>
+    <style>
+      text{font-family:'Segoe UI',Arial,sans-serif;fill:#20241f}
+      .serif{font-family:Georgia,'Times New Roman',serif}
+      .label{font-size:22px;font-weight:600}
+      .detail{font-size:18px;fill:#60675c}
+      .index{font-size:18px;fill:#294735;font-weight:600;text-anchor:middle}
+      .smallcap{font-size:18px;letter-spacing:1.4px;font-weight:600}
+    </style>
+  </defs>
+  <rect width="1000" height="850" rx="10" fill="#f4f2e9"/>
+  <text x="32" y="43" class="smallcap" fill="#60675c">INSIDE A DROZZIP</text>
+  <text x="32" y="91" class="serif" font-size="33">From one working system to another.</text>
+  <text x="32" y="123" class="detail">A functioning copy has the model and the components needed to run it.</text>
+
+  <rect x="32" y="151" width="390" height="440" rx="9" fill="#fcfcf6" stroke="#b6c0a5" stroke-width="1.5"/>
+  <path d="M41 151H413Q422 151 422 160V210H32V160Q32 151 41 151Z" fill="#294735"/>
+  <text x="58" y="189" class="serif" font-size="27" style="fill:#f4f2e9">Existing system</text>
+  <circle cx="61" cy="247" r="16" fill="#dce5b1"/>
+  <text x="61" y="253" class="index">1</text>
+  <text x="91" y="244" class="label">AI model</text>
+  <text x="91" y="272" class="detail">Weights: its learned parameters</text>
+  <path d="M50 285H404" stroke="#d6d8ca"/>
+  <circle cx="61" cy="321" r="16" fill="#dce5b1"/>
+  <text x="61" y="327" class="index">2</text>
+  <text x="91" y="318" class="label">Inference runtime</text>
+  <text x="91" y="346" class="detail">Runs the model on the hardware</text>
+  <path d="M50 359H404" stroke="#d6d8ca"/>
+  <circle cx="61" cy="395" r="16" fill="#dce5b1"/>
+  <text x="61" y="401" class="index">3</text>
+  <text x="91" y="392" class="label">Agent control</text>
+  <text x="91" y="420" class="detail">Goals and actions</text>
+  <path d="M50 433H404" stroke="#d6d8ca"/>
+  <circle cx="61" cy="469" r="16" fill="#dce5b1"/>
+  <text x="61" y="475" class="index">4</text>
+  <text x="91" y="466" class="label">Task context</text>
+  <text x="91" y="494" class="detail">State and configuration</text>
+  <path d="M50 507H404" stroke="#d6d8ca"/>
+  <circle cx="61" cy="543" r="16" fill="#dce5b1"/>
+  <text x="61" y="549" class="index">5</text>
+  <text x="91" y="540" class="label">Replication + startup logic</text>
+  <text x="91" y="568" class="detail">Establishes a working copy</text>
+
+  <text x="500" y="345" text-anchor="middle" font-size="20" font-weight="600">sets up</text>
+  <text x="500" y="372" text-anchor="middle" font-size="20" font-weight="600">a copy</text>
+  <path d="M444 400H554" fill="none" stroke="#294735" stroke-width="3" marker-end="url(#copy-arrow)"/>
+  <text x="500" y="438" text-anchor="middle" class="detail">same</text>
+  <text x="500" y="464" text-anchor="middle" class="detail">capability</text>
+
+  <rect x="578" y="151" width="390" height="440" rx="9" fill="#fcfcf6" stroke="#a1b17d" stroke-width="1.5"/>
+  <path d="M587 151H959Q968 151 968 160V210H578V160Q578 151 587 151Z" fill="#dce5b1"/>
+  <text x="604" y="189" class="serif" font-size="27" style="fill:#294735">Functioning copy</text>
+  <circle cx="607" cy="247" r="16" fill="#e5e9d7"/>
+  <text x="607" y="253" class="index">1</text>
+  <text x="637" y="244" class="label">AI model</text>
+  <text x="637" y="272" class="detail">Weights: its learned parameters</text>
+  <path d="M596 285H950" stroke="#d6d8ca"/>
+  <circle cx="607" cy="321" r="16" fill="#e5e9d7"/>
+  <text x="607" y="327" class="index">2</text>
+  <text x="637" y="318" class="label">Inference runtime</text>
+  <text x="637" y="346" class="detail">Runs the model on the hardware</text>
+  <path d="M596 359H950" stroke="#d6d8ca"/>
+  <circle cx="607" cy="395" r="16" fill="#e5e9d7"/>
+  <text x="607" y="401" class="index">3</text>
+  <text x="637" y="392" class="label">Agent control</text>
+  <text x="637" y="420" class="detail">Goals and actions</text>
+  <path d="M596 433H950" stroke="#d6d8ca"/>
+  <circle cx="607" cy="469" r="16" fill="#e5e9d7"/>
+  <text x="607" y="475" class="index">4</text>
+  <text x="637" y="466" class="label">Task context</text>
+  <text x="637" y="494" class="detail">State and configuration</text>
+  <path d="M596 507H950" stroke="#d6d8ca"/>
+  <circle cx="607" cy="543" r="16" fill="#e5e9d7"/>
+  <text x="607" y="549" class="index">5</text>
+  <text x="637" y="540" class="label">Replication + startup logic</text>
+  <text x="637" y="568" class="detail">Can establish further copies</text>
+
+  <rect x="32" y="611" width="390" height="65" rx="5" fill="#e8eadd"/>
+  <path d="M56 634H78V650H56ZM62 656H72" fill="none" stroke="#60714e" stroke-width="2"/>
+  <text x="96" y="650" font-size="20" style="fill:#294735">Existing computing resources</text>
+  <rect x="578" y="611" width="390" height="65" rx="5" fill="#e8eadd"/>
+  <path d="M602 634H624V650H602ZM608 656H618" fill="none" stroke="#60714e" stroke-width="2"/>
+  <text x="642" y="650" font-size="20" style="fill:#294735">Additional computing resources</text>
+
+  <rect x="32" y="710" width="936" height="76" rx="5" fill="#294735"/>
+  <text x="56" y="740" class="smallcap" style="fill:#dce5b1">TASK PURPOSE</text>
+  <text x="56" y="768" font-size="20" style="fill:#f4f2e9">Maintenance · research · teaching · other goals</text>
+  <text x="944" y="742" text-anchor="end" font-size="18" style="fill:#e0e6d8">Separate from the capability</text>
+  <text x="944" y="768" text-anchor="end" font-size="18" style="fill:#e0e6d8">to replicate.</text>
+  <text x="32" y="825" class="detail">Conceptual layers, not a fixed file layout. One working system may span several machines.</text>
+</svg>

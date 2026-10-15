@@ -8,9 +8,9 @@
 
 Yes. As a noun: “A **drozzip** maintains the network.” As a verb: “The system can **drozzip** across approved devices,” meaning it can establish functioning copies of itself. The present participle is **drozziping**, as in “a drozziping system.”
 
-## Is drozzip an acronym?
+## Is drozzip an acronym or a combination of other words?
 
-No. Drozzip is a standalone word. Its meaning is neutral about purpose and authorization.
+No. Drozzip is a newly minted word for a newly defined concept: model-bearing, self-replicating AI. It is neither an acronym nor a blend of existing words. Its meaning is neutral about purpose and authorization.
 
 ## Is a drozzip necessarily malware?
 
@@ -34,7 +34,7 @@ The copy must have the model available to run on its computing resources. The we
 
 ## How does this relate to an AI worm?
 
-*AI worm* emphasizes autonomous propagation, usually in a cybersecurity context. *Drozzip* names the model-bearing, self-replicating AI system, including both authorized and unauthorized uses.
+*AI worm* emphasizes autonomous propagation, usually in a cybersecurity context. *Drozzip* refers to model-bearing, self-replicating AI systems, including both authorized and unauthorized uses.
 
 ## Does copying improve the model automatically?
 
@@ -42,4 +42,4 @@ Self-replication does not, by itself, mean that model weights change or capabili
 
 ## What does the definition cover?
 
-The definition covers an autonomous AI system that can establish functioning copies of its model and operating components on additional computing resources and continue replication from those deployments. It describes that capability without assigning a purpose or level of authorization.
+The definition covers any autonomous AI system that can establish functioning copies of its model and operating components on additional computing resources and continue replication from those deployments. It describes that capability without assigning a purpose or level of authorization.
